@@ -1,5 +1,6 @@
 # How to Run Claude Code with Free $200 Credits
 
+![Claude Code with free credits](./IMG_20260723_155833_993.png.)
 A quick guide to using Claude Code with AgentRouter's API.
 
 Claude Code is Anthropic's CLI coding assistant. It can read your codebase, create and modify files, run commands, debug errors, and help you ship faster.
