@@ -102,6 +102,8 @@ Inside Claude Code, verify your configuration:
 
 If everything is configured correctly, your Claude Code sessions should now be routed through AgentRouter.
 
+![Claude Code running in the terminal](./IMG_20260723_120825_579.jpg)
+
 ## Troubleshooting
 
 If you previously used Claude Code with an official Anthropic account and encounter authentication errors, run:
@@ -118,4 +120,4 @@ Then close and restart your terminal before launching Claude Code again.
 - Model availability may change over time.
 - You can monitor your balance and usage from your AgentRouter dashboard.
 
-Happy building. 🚀
+Happy building.
