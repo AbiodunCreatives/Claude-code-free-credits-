@@ -13,6 +13,16 @@ By routing Claude Code through AgentRouter, you can use your available credits a
 - GPT-5.5
 - QLM-5.2
 
+- ## Claim Your Free Credits
+
+Register on AgentRouter and claim your **$200 in free credits**:
+
+👉 [Register on AgentRouter](https://agentrouter.org/register?aff=9bUg)
+
+> **Important:** You must sign up using a GitHub account that is at least 3 years old and has activity to qualify for the promotional credits.
+
+**No credit card required.**
+
 ## 1. Install Claude Code
 
 You need Node.js v18 or higher.
